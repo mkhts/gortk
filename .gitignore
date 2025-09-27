@@ -1,0 +1,5 @@
+testdata/
+*.pos
+*.obs
+*.nav
+

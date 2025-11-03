@@ -1,6 +1,6 @@
 # gortk
 
-(English is below.)
+(English follows after Japanese.)
 
 # 概要
 - RTK-GNSS の勉強のために書いたコードです。RTK-GNSS のアルゴリズムを Go 言語で実装しています。拙い実装で恐縮ですが、無償で公開致します。
